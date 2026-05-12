@@ -2,6 +2,5 @@
 
 - 🔭 I’m currently data science for business student
 - 🌱 I’m currently learning statistical analysis, indicator modeling and r
-- 🤔 I’m looking for help with machine learning
 - 💬 Ask me about python, bi, crochet ...
   <!---⚡ Fun fact: ... --->
